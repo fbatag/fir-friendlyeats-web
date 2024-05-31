@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "staging": "friendlyeats-fer",
+    "default": "friendlyeats-fer"
+  },
+  "targets": {},
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
+}
